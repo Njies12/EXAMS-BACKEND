@@ -1,0 +1,10 @@
+POST http://local:4000/api/services
+content-type: application/json
+
+{
+    "logo":"",
+    "title":"Fronend Engineering"
+    "description":"Let me help you on the core now, validate the design"
+    }
+###
+GET http://local:4000/api/services
